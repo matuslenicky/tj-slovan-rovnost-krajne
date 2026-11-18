@@ -1,0 +1,118 @@
+/* TJ Slovan Rovnosť Krajné – „Tabuľka na titulke“. Biela, modrá z dresov, tmavá tlač. */
+:root {
+  --bg: #fff; --paper: #fff; --ink: #14202c; --muted: #536170; --line: #dfe5eb;
+  --blue: #1d6fb8; --blue-d: #155592; --blue-l: #e8f2fb; --tint: #f3f6f9; --focus: #1d6fb8; --link: #155592;
+  --disp: 'Big Shoulders Display', 'Arial Narrow', Impact, sans-serif;
+  --text: 'Lora', Georgia, 'Times New Roman', serif;
+  --text-size: 1.0625rem; --lh: 1.6;
+  --menu-bg: #fff; --menu-ink: #14202c;
+}
+.h1, .h2, .h3, .brand-n, .teams-n, .stat b, .mc-mid, .menu-nav a, .kr-h2, .contact-mail { font-family: var(--disp); font-weight: 800; letter-spacing: .005em; }
+.h1 { font-size: clamp(2.6rem, 8vw, 4.6rem); line-height: 1; text-transform: uppercase; }
+.h2 { font-size: clamp(1.7rem, 3.8vw, 2.4rem); line-height: 1.05; text-transform: uppercase; }
+.h2--gap { margin-top: 32px; }
+.h3 { font-size: 1.35rem; margin-bottom: 10px; text-transform: uppercase; }
+.h4 { font-weight: 600; }
+.kicker { font: 800 .875rem/1.3 var(--disp); letter-spacing: .08em; text-transform: uppercase; color: var(--muted); }
+.more { margin-top: 10px; font-weight: 600; color: var(--link); }
+.more .i { width: 15px; height: 15px; }
+.btn { background: var(--blue); color: #fff; font-weight: 600; border-radius: 4px; }
+.btn:hover { background: var(--blue-d); }
+.btn--line { background: transparent; color: var(--ink); border-color: var(--ink); }
+.btn--line:hover { background: var(--ink); color: #fff; }
+.sec--tint { background: var(--tint); }
+.sec--blue { background: var(--blue-l); }
+
+/* hlavička */
+.hdr { background: var(--paper); border-bottom: 1px solid var(--line); }
+.brand img { height: 44px; width: auto; }
+.brand-n { font-size: 1.45rem; text-transform: uppercase; line-height: 1; }
+.brand-s { font-size: .8125rem; font-style: italic; color: var(--muted); }
+.nav a { padding: 0 12px; color: var(--ink); font: 800 1.125rem/1 var(--disp); text-transform: uppercase; letter-spacing: .03em; }
+.nav a[aria-current="page"] { color: var(--blue); box-shadow: inset 0 -3px 0 var(--blue); }
+.menu-btn { background: var(--ink); color: #fff; border: 0; border-radius: 4px; }
+@media (max-width: 519.98px) { .brand-n { font-size: 1.2rem; white-space: normal; } .brand-s { display: none; } }
+.menu-k { font-family: var(--disp); font-weight: 800; text-transform: uppercase; }
+.menu-nav a { font-size: 2.6rem; line-height: 1.05; text-transform: uppercase; border-bottom: 1px solid var(--line); }
+.menu-nav a[aria-current="page"] { color: var(--blue); }
+
+/* úvod */
+.kr-top { border-bottom: 1px solid var(--line); }
+.kr-top-in { padding-top: 30px; padding-bottom: 26px; }
+.kr-h1 { font: 800 1rem/1.2 var(--disp); letter-spacing: .1em; text-transform: uppercase; color: var(--blue); }
+.kr-pos { display: flex; align-items: flex-end; gap: 14px; margin-top: 18px; }
+.kr-n { font: 800 clamp(6rem, 22vw, 11rem)/.8 var(--disp); letter-spacing: -.02em; color: var(--ink); }
+.kr-pos-t { display: block; padding-bottom: 6px; font: 800 clamp(1.5rem, 4.4vw, 2.6rem)/1 var(--disp); text-transform: uppercase; }
+.kr-pos-t small { display: block; margin-top: 8px; font: 400 1rem/1.4 var(--text); text-transform: none; color: var(--muted); }
+.kr-p { margin-top: 18px; max-width: 54ch; font-size: 1.125rem; }
+
+/* tabuľka a bočný stĺpec */
+.kr-grid { display: grid; gap: 40px; }
+.kr-grid > * { min-width: 0; }
+@media (min-width: 1040px) { .kr-grid { grid-template-columns: minmax(0, 8fr) minmax(0, 4fr); gap: 48px; align-items: start; } }
+.kr-side { display: grid; gap: 36px; }
+@media (max-width: 1039.98px) { .kr-side { display: contents; } .kr-next { order: -1; } }
+.kr-h2 { margin-bottom: 10px; font-size: 1.75rem; line-height: 1; text-transform: uppercase; }
+.kr-h2 span { font: italic 400 1rem/1 var(--text); text-transform: none; color: var(--muted); }
+.kr-next { padding: 18px 20px; border: 1px solid var(--line); border-top: 4px solid var(--blue); border-radius: 4px; }
+.kr-next-o { font: 800 1.65rem/1.05 var(--disp); text-transform: uppercase; }
+.kr-meta { margin-top: 6px; color: var(--muted); font-size: .9688rem; }
+.kr-meta .cd { font-weight: 600; color: var(--blue-d); }
+.kr-table .tbl { font-size: 1rem; }
+
+/* dva postupy */
+.kr-h2--inv { font-size: clamp(1.8rem, 4vw, 2.6rem); }
+.kr-ups { list-style: none; margin: 18px 0 8px; padding: 0; display: grid; gap: 16px; }
+@media (min-width: 720px) { .kr-ups { grid-template-columns: 1fr 1fr; gap: 24px; } }
+.kr-ups li { display: grid; gap: 4px; padding: 18px 20px; background: var(--paper); border-radius: 4px; }
+.kr-up-y { font: 800 1.1rem/1 var(--disp); letter-spacing: .06em; color: var(--blue-d); }
+.kr-up-l { font-weight: 600; }
+.kr-up-n { font: 800 3.4rem/1 var(--disp); }
+.kr-up-s { color: var(--muted); font-size: .9688rem; }
+
+/* zápasy a tabuľky */
+.fx { border-bottom: 1px solid var(--line); }
+.fx-a { grid-template-columns: 50px minmax(0, 1fr) auto; min-height: 54px; padding: 5px 0; }
+.fx-d { font: 800 1.05rem/1.05 var(--disp); }
+.fx-dd { font: italic 400 .8125rem/1.3 var(--text); color: var(--muted); }
+.fx-on { font-weight: 600; line-height: 1.25; font-size: 1rem; }
+.fx-k { font-size: .8125rem; }
+.fx-t { font: 800 1.25rem/1 var(--disp); }
+.sc { font: 800 1.2rem/1 var(--disp); min-width: 48px; padding: 4px 8px; border-radius: 4px; letter-spacing: .02em; }
+.sc--w { background: var(--blue); color: #fff; }
+.sc--d { box-shadow: inset 0 0 0 1px var(--ink); }
+.sc--l { color: var(--muted); }
+.sc--n { color: var(--muted); font: 400 .875rem/1.2 var(--text); }
+.month-h { font: 800 1.5rem/1.1 var(--disp); text-transform: uppercase; }
+.form li { border-radius: 4px; font: 800 .9375rem/1 var(--disp); box-shadow: inset 0 0 0 1px var(--line); }
+.form--w { background: var(--blue); color: #fff; box-shadow: none; }
+.tbl { font-size: .9688rem; background: var(--paper); }
+.tbl thead th { font: 800 .875rem/1.2 var(--disp); letter-spacing: .06em; text-transform: uppercase; color: var(--muted); border-bottom: 2px solid var(--ink); }
+.tbl tbody tr { border-bottom: 1px solid var(--line); }
+.tbl .pos { font: 800 1.05rem/1 var(--disp); color: var(--muted); }
+.tbl td:last-child { font-family: var(--disp); font-weight: 800; font-size: 1.1rem; }
+.tbl tr.our { background: var(--blue-l); }
+.tbl tr.our th, .tbl tr.our td, .tbl tr.our .pos { color: var(--blue-d); }
+.tbl tr.our td:last-child, .tbl tr.our .pos { font-weight: 800; }
+.toc a { border-radius: 4px; box-shadow: inset 0 0 0 1px var(--ink); color: var(--ink); }
+.kv dt { font-family: var(--disp); font-weight: 800; font-size: 1.1rem; color: var(--blue-d); }
+
+/* podstránky */
+.phead { padding: 32px 0 24px; border-bottom: 1px solid var(--line); }
+.mc { padding: 22px 20px 16px; border: 1px solid var(--line); border-top: 4px solid var(--blue); border-radius: 4px; }
+.mc-label { font-weight: 600; color: var(--blue-d); }
+.mc-mid { font-size: 3.4rem; }
+.chip { border: 0; border-radius: 4px; background: var(--paper); color: var(--ink); box-shadow: inset 0 0 0 1px var(--line); }
+.chip[aria-pressed="true"] { background: var(--ink); color: #fff; box-shadow: none; }
+.teams a { border-bottom: 1px solid var(--line); }
+.teams-n { font-size: 1.8rem; text-transform: uppercase; color: var(--blue-d); }
+.teams-s { font-weight: 600; }
+.join { background: var(--blue-l); border-radius: 4px; }
+.stat b { font-size: 2.8rem; }
+.contact-mail { font-size: clamp(1.6rem, 5vw, 2.6rem); line-height: 1.1; }
+
+/* päta */
+.ftr { background: var(--tint); border-top: 1px solid var(--line); }
+.ftr-name { font: 800 1.4rem/1.1 var(--disp); text-transform: uppercase; }
+.ftr-bar { border-top: 1px solid var(--line); color: var(--muted); }
+.demo { background: var(--ink); color: #fff; }

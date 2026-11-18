@@ -1,0 +1,90 @@
+{
+  "_zdroj": "Ručne zapísané len zo zverejnených zdrojov (uvedené pri každej časti). Nič nedopĺňať odhadom – chýbajúce údaje dodá klub.",
+  "nazov": "TJ Slovan Rovnosť Krajné",
+  "kratky": "Krajné",
+  "pravnyNazov": "Telovýchovná jednota Slovan Rovnosť Krajné",
+  "_pravnyNazov": "web obce (Organizácie – TJ Slovan Rovnosť Krajné)",
+  "mesto": "Krajné",
+  "zalozenie": 1934,
+  "_zalozenie": "web obce (Stručne z histórie TJ): klub založili v roku 1934 notár Gejza Dalloš a Štefan Moravec; rok aj v erbe klubu",
+  "farby": "modrá a biela",
+  "_farby": "web obce (farby klubu KŠK Krajné: modrá a biela) a erb klubu",
+  "erbAlt": "Erb TJ Slovan Rovnosť Krajné: na modro-bielych pruhoch futbalová lopta a postava Spravodlivosti z erbu obce s ružami a váhami, rok 1934",
+  "adresa": ["916 16 Krajné"],
+  "_adresa": "Sportnet (Športový areál Krajné, PSČ 916 16)",
+  "kontakt": { "email": "slovan.krajne@gmail.com" },
+  "_kontakt": "Sportnet (kontakt klubu)",
+  "sportnetUrl": "https://sportnet.sme.sk/futbalnet/k/tj-slovan-rovnost-krajne/",
+  "obecWeb": "https://www.krajne.sk/",
+  "obecKlub": "https://www.krajne.sk/obcan/organizacie/tj-slovan-rovnost-krajne-/",
+  "stadion": {
+    "_zdroj": "Sportnet (Športový areál Krajné: poloha, kapacita, rozmery, vlastník), Krajnianske noviny 4/2025",
+    "nazov": "Športový areál Krajné",
+    "geo": [48.6949842, 17.689754],
+    "fakty": [
+      { "k": "Kapacita", "t": "500 divákov, z toho 150 miest na sedenie." },
+      { "k": "Ihrisko", "t": "Hracia plocha 98 × 60 metrov. Areál patrí obci Krajné." },
+      { "k": "Jeseň 2025", "t": "Pre úpravy trávnika hralo áčko prvé dva domáce zápasy v 7. lige na štadióne na Myjave a na Turej Lúke. Derby s Čachticami a Brestovcom v Krajnom sledovalo viac ako 300 a 400 divákov." }
+    ]
+  },
+  "kronika": {
+    "_zdroj": "web obce Krajné (Stručne z histórie TJ), Krajnianske noviny 4/2025, Sportnet",
+    "zoznam": [
+      { "rok": "1934", "text": "Klub zakladajú notár Gejza Dalloš a Štefan Moravec z obecného úradu. Funkcie si delia hráči, medzi nimi poštoví doručovatelia Samuel Kubiš a Pavol Ďuriš, školník Štefan Ďuriš a hospodár Ján Šagát." },
+      { "rok": "1952", "text": "Krajné vyhráva okresnú súťaž na Myjave a hrá o postup do krajskej súťaže s Matadorom Bratislava. Prehráva doma 1:5 a v Bratislave 2:5." },
+      { "rok": "Od 1956", "text": "Po ďalšom víťazstve v okrese päť rokov v medziokresnej krajskej súťaži s okresmi Trenčín, Nové Mesto nad Váhom, Piešťany a Myjava. Klub sa volá KŠK Krajné, hrá v modrých dresoch s bielym golierom, druhé dresy sú bielo-modré ako dresy pražskej Slávie." },
+      { "rok": "1981 – 1983", "text": "Pod trénermi z Myjavy, pánmi Pavlíkom a Bičianom, dva postupy z najnižšej triedy do okresnej ligy." },
+      { "rok": "2024/25", "text": "Víťaz 8. ligy Juh ObFZ Trenčín bez jedinej prehry: 19 výhier, 3 remízy, skóre 87:25." },
+      { "rok": "2025/26", "text": "Ako nováčik vyhráva aj 7. ligu, najvyššiu súťaž ObFZ Trenčín, o bod pred Brestovcom. Na jeseň vbehol na Turej Lúke na ihrisko pštros zo susedstva, kapitán Dominik Medveď a obranca Lukáš Kodaj sa dostali do jedenástky jesene Trenčianskych novín." }
+    ]
+  },
+  "rocniky": {
+    "_zdroj": "Sportnet – konečné tabuľky áčka (dospelí), stiahnuté 18. 11. 2026",
+    "zoznam": [
+      { "rok": "2014/15", "liga": "7. liga Juh ObFZ Trenčín", "poz": 6, "z": 16, "skore": "66:68", "body": 44 },
+      { "rok": "2015/16", "liga": "7. liga Juh ObFZ Trenčín", "poz": 12, "z": 14, "skore": "49:61", "body": 26 },
+      { "rok": "2016/17", "liga": "7. liga Juh ObFZ Trenčín", "poz": 5, "z": 14, "skore": "78:41", "body": 42 },
+      { "rok": "2017/18", "liga": "7. liga Juh ObFZ Trenčín", "poz": 3, "z": 14, "skore": "56:30", "body": 51 },
+      { "rok": "2018/19", "liga": "7. liga Juh ObFZ Trenčín", "poz": 9, "z": 14, "skore": "49:55", "body": 31 },
+      { "rok": "2019/20", "liga": "7. liga Juh ObFZ Trenčín", "poz": 11, "z": 14, "skore": "26:32", "body": 14, "pozn": "13 zápasov" },
+      { "rok": "2020/21", "liga": "7. liga Juh ObFZ Trenčín", "poz": 6, "z": 14, "skore": "18:21", "body": 16, "pozn": "9 zápasov" },
+      { "rok": "2021/22", "liga": "7. liga Juh ObFZ Trenčín", "poz": 10, "z": 14, "skore": "28:39", "body": 29 },
+      { "rok": "2022/23", "liga": "8. liga Juh ObFZ Trenčín", "poz": 8, "z": 13, "skore": "32:44", "body": 30 },
+      { "rok": "2023/24", "liga": "8. liga Juh ObFZ Trenčín", "poz": 9, "z": 14, "skore": "42:66", "body": 27 },
+      { "rok": "2024/25", "liga": "8. liga Juh ObFZ Trenčín", "poz": 1, "z": 13, "skore": "87:25", "body": 60, "titul": true, "pozn": "bez prehry: 19 výhier, 3 remízy" },
+      { "rok": "2025/26", "liga": "7. liga ObFZ Trenčín", "poz": 1, "z": 16, "skore": "98:31", "body": 69, "titul": true, "pozn": "o bod pred Brestovcom" }
+    ]
+  },
+  "uspechy": [
+    { "rok": "2025/26", "text": "víťaz 7. ligy ObFZ Trenčín, postup do VI. ligy Západ" },
+    { "rok": "2024/25", "text": "víťaz 8. ligy Juh ObFZ Trenčín bez prehry" },
+    { "rok": "Od 1956", "text": "päť rokov v medziokresnej krajskej súťaži" }
+  ],
+  "obec": {
+    "_zdroj": "web obce Krajné (História, Symboly)",
+    "fakty": [
+      { "k": "1392", "t": "Prvá písomná zmienka o obci; 600. výročie oslávilo Krajné v roku 1992 aj s rodákmi zo sveta." },
+      { "k": "1642", "t": "Obec začína viesť obecnú knihu, kde zmeny majetku zapisuje notár, spravidla miestny učiteľ. Najstaršia obecná pečať je z roku 1671." },
+      { "k": "Erb", "t": "V striebornom štíte sediaca postava Spravodlivosti v zelených šatách so zlatou korunou, v pravici tri červené ruže, v ľavici zlaté váhy. Rovnaká postava je aj v erbe klubu." }
+    ]
+  },
+  "sutaze": {
+    "_pozn": "čitateľné názvy súťaží namiesto skratiek a názvov so sponzormi zo Sportnetu",
+    "Slovnaft Cup": "Slovnaft Cup",
+    "VI. liga Západ  Macron | yoursport  ZsFZ": "VI. liga Západ",
+    "Prezidentský pohár": "Prezidentský pohár",
+    "V. liga U19 - ObFZ TN": "V. liga starších dorastencov U19",
+    "IV. liga SŽ U15 - ObFZ TN": "IV. liga starších žiakov U15"
+  },
+  "nazvy": {
+    "_pozn": "čitateľné názvy súperov namiesto úradných názvov a veľkých písmen zo Sportnetu",
+    "TJ Slovan Šaštín - Stráže": "TJ Slovan Šaštín-Stráže",
+    "TJ Lokomotíva - Trenčianska Teplá": "TJ Lokomotíva Trenčianska Teplá",
+    "TJ SPARTAK ŠAŠTÍN-STRÁŽE": "TJ Spartak Šaštín-Stráže",
+    "Telovýchovná jednota Štart Svinná": "TJ Štart Svinná",
+    "Futbalový klub Potvorice": "FK Potvorice",
+    "TJ Iskra - Horné Orešany": "TJ Iskra Horné Orešany",
+    "Trenčiansky Futbalový Klub Opatová": "TFK Opatová",
+    "Telovýchovná jednota Kopčany": "TJ Kopčany"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "_pozn": "Verejná konfigurácia webu. Kľúč Supabase je publishable (verejný), zápis chráni RLS.",
+  "siteUrl": "",
+  "basePath": "/",
+  "noindex": true,
+  "ukazka": true,
+  "_ukazka": "true = pás „Návrh webu, nie oficiálna stránka klubu“ v hlavičke (verejná ukážka); pri ostrom spustení dať false",
+  "adminDemo": true,
+  "sportnet": {
+    "appSpace": "tj-slovan-rovnost-krajne.futbalnet.sk",
+    "club": "tj-slovan-rovnost-krajne",
+    "teams": {}
+  },
+  "supabase": {
+    "url": null,
+    "key": null
+  }
+}

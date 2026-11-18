@@ -1,0 +1,8 @@
+dist/
+.pages/
+media/
+node_modules/
+__pycache__/
+data/stary-web/
+PLAN.md
+.impeccable/

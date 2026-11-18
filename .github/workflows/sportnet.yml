@@ -1,0 +1,83 @@
+# Výsledky zo Sportnetu podľa zápasov: cez deň sa každých 20 min pozrie do uloženého rozpisu (bez kontaktu so Sportnetom)
+# a výsledky stiahne len vtedy, keď sa nejaký zápas skončil a jeho výsledok ešte nemáme (scripts/sportnet.mjs --if-due).
+# Raz denne stiahne celý rozpis (presunuté zápasy, opravy zápisov, tabuľky, súpisky) a nasadí aj bez zmeny, aby sedel „dnes“.
+# Erby nových súperov stiahne scripts/logos.py. Fotky klubu (media/foto-web, zatiaľ žiadne) sa obnovia z nasadeného webu.
+# Ručné spustenie (celé stiahnutie): Actions → Sportnet výsledky → Run workflow.
+name: Sportnet výsledky
+
+on:
+  schedule:
+    - cron: '*/20 8-23 * * *'  # kontrola rozpisu cez deň (UTC = 9:00 – 0:40 / 10:00 – 1:40 slovenského času)
+    - cron: '17 3 * * *'       # denné úplné stiahnutie o 4:17/5:17 slovenského času
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+
+concurrency:
+  group: sportnet-deploy
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      # posledný stiahnutý stav (detaily zápasov sa potom nesťahujú znova)
+      - uses: actions/cache/restore@v4
+        with:
+          path: data/sportnet.json
+          key: sportnet-${{ github.run_id }}
+          restore-keys: sportnet-
+
+      - name: Stiahnuť výsledky zo Sportnetu
+        id: sn
+        run: |
+          before=$(sha256sum data/sportnet.json | cut -d' ' -f1)
+          full=0
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ] || [ "${{ github.event.schedule }}" = "17 3 * * *" ]; then full=1; fi
+          if [ "$full" = "1" ]; then node scripts/sportnet.mjs; else node scripts/sportnet.mjs --if-due; fi
+          after=$(sha256sum data/sportnet.json | cut -d' ' -f1)
+          if [ "$before" != "$after" ] || [ "$full" = "1" ]; then echo "deploy=1" >> "$GITHUB_OUTPUT"; fi
+
+      - uses: actions/cache/save@v4
+        if: always()
+        with:
+          path: data/sportnet.json
+          key: sportnet-${{ github.run_id }}
+
+      - name: Erby nových súperov
+        if: steps.sn.outputs.deploy == '1'
+        run: |
+          python3 -m pip install --quiet pillow
+          python3 scripts/logos.py
+
+      - name: Pripraviť gh-pages a fotky
+        if: steps.sn.outputs.deploy == '1'
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch --depth 1 origin gh-pages
+          git worktree add -B gh-pages .pages FETCH_HEAD
+          mkdir -p media
+          if [ -d .pages/foto ]; then cp -r .pages/foto media/foto-web; fi
+
+      - name: Zostaviť a nasadiť
+        if: steps.sn.outputs.deploy == '1'
+        env:
+          SKIP_SPORTNET: '1'
+          DEPLOY_MSG: Automatická aktualizácia výsledkov zo Sportnetu
+        run: node scripts/deploy.mjs
+
+      - name: Spustiť zostavenie GitHub Pages
+        if: steps.sn.outputs.deploy == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X POST "repos/${{ github.repository }}/pages/builds" || true

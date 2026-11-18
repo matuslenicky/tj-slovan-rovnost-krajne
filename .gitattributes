@@ -1,0 +1,4 @@
+*.ics text eol=crlf
+*.webp binary
+*.png binary
+*.woff binary
