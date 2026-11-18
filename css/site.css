@@ -16,7 +16,7 @@ h1, h2, h3, h4, p, dl, dd, figure { margin: 0; }
 /* medzera medzi odsekmi len v súvislom texte, nie v odsekoch použitých ako prvky rozloženia */
 :where(.prose, .block, .band-r, .col, .book, .story, .cols3 > section, .cols2 > div, .sec > .wrap, .sec > .wrap > div, .klub-main) > p + p { margin-top: .8em; }
 abbr[title] { text-decoration: none; }
-.sr { position: absolute; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
+.sr { position: absolute; left: 0; top: 0; width: 1px; height: 1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; }
 .wrap { width: 100%; max-width: calc(var(--wrap, 1160px) + 2 * var(--gut)); margin: 0 auto; padding: 0 var(--gut); }
 :root { --gut: 16px; }
 @media (min-width: 700px) { :root { --gut: 28px; } }
@@ -283,6 +283,7 @@ a:hover .teams-s { text-decoration: underline; }
 .kr-h2 { margin-bottom: 10px; font-size: 1.75rem; line-height: 1; text-transform: uppercase; }
 .kr-h2 span { font: italic 400 1rem/1 var(--text); text-transform: none; color: var(--muted); }
 .kr-next { padding: 18px 20px; border: 1px solid var(--line); border-top: 4px solid var(--blue); border-radius: 4px; }
+.kr-next > .kr-h2 { margin-bottom: 8px; font-size: 1rem; letter-spacing: .08em; color: var(--blue-d); } /* nadpis bloku menší než samotný zápas */
 .kr-next-o { font: 800 1.65rem/1.05 var(--disp); text-transform: uppercase; }
 .kr-meta { margin-top: 6px; color: var(--muted); font-size: .9688rem; }
 .kr-meta .cd { font-weight: 600; color: var(--blue-d); }

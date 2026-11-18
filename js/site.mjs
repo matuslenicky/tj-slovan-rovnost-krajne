@@ -98,3 +98,6 @@ for (const box of $$('[data-tabs]')) {
   box.classList.add('tabs-on');
   pick(0);
 }
+
+// ---- vodorovné pásy kariet: prvok s fokusom posunúť celý do zorného poľa ----
+document.addEventListener('focusin', (e) => { const r = e.target.closest && e.target.closest('.rail'); if (r && r.scrollWidth > r.clientWidth) e.target.scrollIntoView({ inline: 'nearest', block: 'nearest' }); });
