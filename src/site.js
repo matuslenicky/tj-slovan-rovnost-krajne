@@ -29,7 +29,7 @@ add('', {
     return `<section class="kr-top"><div class="wrap kr-top-in">
   <h1 class="kr-h1">TJ Slovan Rovnosť Krajné</h1>
   ${me ? `<p class="kr-pos"><span class="kr-n">${me.pos}.</span><span class="kr-pos-t">miesto ${zo(rows.length)}<small>${esc(A.leagueName)}, ${gapTxt}</small></span></p>` : ''}
-  <p class="kr-p">Po dvoch postupoch za sebou hrá áčko prvý rok krajskú súťaž.</p>
+  <p class="kr-p">Po dvoch postupoch za sebou je áčko v tejto súťaži nováčikom.</p>
 </div></section>
 <section class="sec sec--first"><div class="wrap kr-grid">
   ${A.table ? `<section class="kr-table" aria-labelledby="t-h">

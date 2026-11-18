@@ -55,6 +55,7 @@
 .kr-h2 { margin-bottom: 10px; font-size: 1.75rem; line-height: 1; text-transform: uppercase; }
 .kr-h2 span { font: italic 400 1rem/1 var(--text); text-transform: none; color: var(--muted); }
 .kr-next { padding: 18px 20px; border: 1px solid var(--line); border-top: 4px solid var(--blue); border-radius: 4px; }
+.kr-next > .kr-h2 { margin-bottom: 8px; font-size: 1rem; letter-spacing: .08em; color: var(--blue-d); } /* nadpis bloku menší než samotný zápas */
 .kr-next-o { font: 800 1.65rem/1.05 var(--disp); text-transform: uppercase; }
 .kr-meta { margin-top: 6px; color: var(--muted); font-size: .9688rem; }
 .kr-meta .cd { font-weight: 600; color: var(--blue-d); }

@@ -18,7 +18,7 @@ Web sa skladá zo spoločného jadra v2 (`kluby-siet/engine`: `python assemble.p
 ## Obsah a zdroje
 
 - Zápasy, výsledky, strelci, karty, počty divákov, zostavy dospelých, tabuľky a súpisky 3 tímov (áčko, U19, U15) zo Sportnetu (Futbalnet), verejné API súťaží (`scripts/sportnet.mjs` → `data/sportnet.json`). Vek hráčov sa neukladá, zostavy len pri dospelých.
-- Ročníky áčka 2014/15 – 2025/26 z konečných tabuliek na Sportnete, tituly 2024/25 (8. liga Juh ObFZ Trenčín, bez prehry) a 2025/26 (7. liga ObFZ Trenčín). Ihrisko (kapacita, rozmery) podľa Sportnetu (`data/klub.json`).
+- Ročníky áčka 2014/15 – 2025/26 z konečných tabuliek na Sportnete, tituly 2024/25 (VIII. liga Juh ObFZ Trenčín, bez prehry) a 2025/26 (VII. liga ObFZ Trenčín). Ihrisko (kapacita, rozmery) podľa Sportnetu (`data/klub.json`).
 - História klubu od roku 1934 zo stránky TJ na webe obce Krajné, jeseň 2025 z Krajnianskych novín 4/2025. Obec podľa webu obce (História, Symboly).
 - E-mail zo Sportnetu. Vlastný web ani sociálne siete klubu sme nenašli (18. 11. 2026).
 - Erb klubu a erby súperov zo Sportnetu (`scripts/logos.py`). Patria príslušným klubom.
