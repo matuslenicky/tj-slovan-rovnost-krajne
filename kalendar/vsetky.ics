@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a418524e5a4847e62265421@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260801T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – ZFC 1939 Trenčín 3:1
@@ -33,7 +33,7 @@ LOCATION:Štadión Turani Turá Lúka
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf8ae@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260809T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slavoj Moravský Svätý Ján – TJ Slovan Rovnos
@@ -43,7 +43,7 @@ LOCATION:Štadión TJ Slavoj
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a637566bb8c6590dfdd27e0@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260809T173000
 DURATION:PT2H
 SUMMARY:U19: FK Horná Súča – TJ Slovan Rovnosť Krajné U19 8:1
@@ -52,7 +52,7 @@ LOCATION:Horná Súča
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a679abfb02131318ed2d389@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260815T173000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Trenčianska Turná – TJ Slovan Rovnosť Krajné 
@@ -62,7 +62,7 @@ LOCATION:TJ Slovan Trenčianska Turná
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf1d2@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260816T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Iskra Holíč 3:2
@@ -71,7 +71,7 @@ LOCATION:Štadión Turani Turá Lúka
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6e6104e904c78a51b1c6c2@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260819T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – MŠK Púchov 1:3
@@ -80,7 +80,7 @@ LOCATION:Štadión Turani Turá Lúka
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf380@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260822T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Šaštín-Stráže – TJ Slovan Rovnosť Kr
@@ -90,7 +90,7 @@ LOCATION:TJ Slovan Šaštín
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f7d14e91f3036864f3@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260822T173000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Dolná Súča – TJ Slovan Rovnosť Krajné U19 8:
@@ -100,7 +100,7 @@ LOCATION:Na Závodí
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c3d14e91f30334f2cb@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260823T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – TJ Družstevník Hrádok 0
@@ -110,7 +110,7 @@ LOCATION:TJ Družstevník Hrádok
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a71eb56e904c78a5126a769@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260826T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Siladice – TJ Slovan Rovnosť Krajn
@@ -120,7 +120,7 @@ LOCATION:Futbalový štadión Siladice
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f7d14e91f3036864e9@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260829T173000
 DURATION:PT2H
 SUMMARY:U19: TJ Lokomotíva Trenčianska Teplá – TJ Slovan Rovnosť Kra
@@ -130,7 +130,7 @@ LOCATION:Futbalový štadión TJ Lokomotíva Trenčianska Teplá
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c3d14e91f30334f408@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260830T103000
 DURATION:PT2H
 SUMMARY:U15: OŠK Bošáca – TJ Slovan Rovnosť Krajné U15 3:1
@@ -139,7 +139,7 @@ LOCATION:OŠK Bošáca
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf6f9@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260830T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Baník Brodské – TJ Slovan Rovnosť Krajné 1:4
@@ -148,7 +148,7 @@ LOCATION:TJ Baník Brodské
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c3d14e91f30334f2be@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260902T170000
 DURATION:PT2H
 SUMMARY:U15: OŠK Podolie – TJ Slovan Rovnosť Krajné U15 5:1
@@ -157,7 +157,7 @@ LOCATION:Futbalový štadión OŠK Podolie
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f7d14e91f303686925@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260905T163000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – OFK Drietoma 1:2
@@ -166,7 +166,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c3d14e91f30334f34f@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260906T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – OFK Vrbovce 1:3
@@ -175,7 +175,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf58f@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260906T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Spartak Šaštín-St
@@ -185,7 +185,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf4b1@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260912T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠFK Štefanov – TJ Slovan Rovnosť Krajné 1:4
@@ -194,7 +194,7 @@ LOCATION:ŠFK Štefanov
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f7d14e91f3036866b7@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260912T163000
 DURATION:PT2H
 SUMMARY:U19: OŠK Bošáca – TJ Slovan Rovnosť Krajné U19 7:0
@@ -203,7 +203,7 @@ LOCATION:OŠK Bošáca
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c3d14e91f30334f275@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260915T163000
 DURATION:PT2H
 SUMMARY:U15: OŠK Slovan Beckov – TJ Slovan Rovnosť Krajné U15 8:0
@@ -212,7 +212,7 @@ LOCATION:OŠK Slovan Beckov
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f8d14e91f303686965@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260919T160000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – TJ Inovec Trenčianske Jas
@@ -222,7 +222,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c3d14e91f30334f659@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260920T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – OFK Čachtice 2:7
@@ -231,7 +231,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfe29@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260920T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – FK Oreské 7:1
@@ -240,7 +240,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf827@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260926T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FC Družstevník Rybky – TJ Slovan Rovnosť Krajné 
@@ -250,7 +250,7 @@ LOCATION:Rybky
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c4d14e91f30334f73e@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260927T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Iskra Moravské Lieskové – TJ Slovan Rovnosť Krajné U
@@ -259,7 +259,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 8. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f8d14e91f303686b30@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260927T130000
 DURATION:PT2H
 SUMMARY:U19: Kočovce FC 1959 – TJ Slovan Rovnosť Krajné U19 3:1
@@ -268,7 +268,7 @@ LOCATION:Kočovce FC 1959
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f8d14e91f303686ad9@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261003T153000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – TJ Štart Svinná 2:1
@@ -277,7 +277,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c3d14e91f30334f5fa@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261004T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – FK Potvorice 1:0
@@ -286,7 +286,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf6eb@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261004T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Iskra Horné Orešan
@@ -296,7 +296,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f8d14e91f303686ce5@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261010T153000
 DURATION:PT2H
 SUMMARY:U19: OFK Čachtice – TJ Slovan Rovnosť Krajné U19
@@ -304,7 +304,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 10. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c4d14e91f30334f8ee@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261011T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – OŠK Slovan Beckov 2:2
@@ -313,7 +313,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdfab4@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261011T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Sokol Borský Mikuláš – TJ Slovan Rovnosť Kraj
@@ -323,7 +323,7 @@ LOCATION:FK Borský Mikuláš
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f9d14e91f303686e7c@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261017T143000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – ZFC 1939 Trenčín B 2:3
@@ -332,7 +332,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c4d14e91f30334f8a4@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261018T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – OŠK Podolie 2:1
@@ -341,7 +341,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f2d14e91f303fe184e@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261018T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Slovan Dubovce 2:0
@@ -350,7 +350,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f8d14e91f303686c3f@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261024T143000
 DURATION:PT2H
 SUMMARY:U19: TFK Opatová – TJ Slovan Rovnosť Krajné U19 0:3
@@ -359,7 +359,7 @@ LOCATION:TFK Opatová
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c4d14e91f30334f7e7@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261025T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Družstevník Hrádok – TJ Slovan Rovnosť Krajné U15 7
@@ -369,7 +369,7 @@ LOCATION:TJ Družstevník Hrádok
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfc0c@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261025T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Slovan Rovnosť Krajné 2:
@@ -379,7 +379,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f8d14e91f303686e46@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261031T143000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – TJ Žihlavník Omšenie 1:
@@ -389,7 +389,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c4d14e91f30334f728@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261101T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – OŠK Bošáca 1:0
@@ -398,7 +398,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fe0067@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261101T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Tatran Jablonica 4:4
@@ -407,7 +407,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fe001b@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261108T133000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Kopčany – TJ Slovan Rovnosť Krajné 7:4
@@ -416,7 +416,7 @@ LOCATION:TJ Kopčany
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe015a@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270307T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Slavoj Moravský Sv
@@ -425,7 +425,7 @@ DESCRIPTION:VI. liga Západ\, 16. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c4d14e91f30334fadc@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270314T103000
 DURATION:PT2H
 SUMMARY:U15: OFK Vrbovce – TJ Slovan Rovnosť Krajné U15
@@ -433,7 +433,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 14. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe03cb@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270314T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Iskra Holíč – TJ Slovan Rovnosť Krajné
@@ -441,7 +441,7 @@ DESCRIPTION:VI. liga Západ\, 17. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f8d14e91f303686df6@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270320T150000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – FK Horná Súča
@@ -449,7 +449,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 14. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe05c1@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270321T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Slovan Šaštín-Str
@@ -458,7 +458,7 @@ DESCRIPTION:VI. liga Západ\, 18. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f9d14e91f303687011@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270327T150000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – TJ Slovan Trenčianska Tur
@@ -467,7 +467,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 15. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c4d14e91f30334f9a1@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270328T103000
 DURATION:PT2H
 SUMMARY:U15: OFK Čachtice – TJ Slovan Rovnosť Krajné U15
@@ -475,7 +475,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 16. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6efd14e91f303fe11de@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270328T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Baník Brodské
@@ -483,7 +483,7 @@ DESCRIPTION:VI. liga Západ\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f9d14e91f303686ffd@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270403T160000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – TJ Slovan Dolná Súča
@@ -491,7 +491,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 16. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c5d14e91f30334fe53@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270404T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – TJ Iskra Moravské Lieskov
@@ -500,7 +500,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 17. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe07f3@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270404T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Spartak Šaštín-Stráže – TJ Slovan Rovnosť K
@@ -509,7 +509,7 @@ DESCRIPTION:VI. liga Západ\, 20. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f9d14e91f303686f94@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270410T160000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – TJ Lokomotíva Trenčiansk
@@ -518,7 +518,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 17. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c5d14e91f30334fdae@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270411T103000
 DURATION:PT2H
 SUMMARY:U15: FK Potvorice – TJ Slovan Rovnosť Krajné U15
@@ -526,7 +526,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 18. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe07cb@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270411T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – ŠFK Štefanov
@@ -534,7 +534,7 @@ DESCRIPTION:VI. liga Západ\, 21. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f9d14e91f303687035@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270417T163000
 DURATION:PT2H
 SUMMARY:U19: OFK Drietoma – TJ Slovan Rovnosť Krajné U19
@@ -542,7 +542,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 18. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c5d14e91f30334fe71@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270418T103000
 DURATION:PT2H
 SUMMARY:U15: OŠK Slovan Beckov – TJ Slovan Rovnosť Krajné U15
@@ -550,7 +550,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 19. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0761@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270418T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Oreské – TJ Slovan Rovnosť Krajné
@@ -558,7 +558,7 @@ DESCRIPTION:VI. liga Západ\, 22. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f9d14e91f3036871af@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270424T163000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – OŠK Bošáca
@@ -566,7 +566,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c5d14e91f3033506f9@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270425T103000
 DURATION:PT2H
 SUMMARY:U15: OŠK Podolie – TJ Slovan Rovnosť Krajné U15
@@ -574,7 +574,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 20. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f3d14e91f303fe1cbf@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270425T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – FC Družstevník Rybky
@@ -582,7 +582,7 @@ DESCRIPTION:VI. liga Západ\, 23. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508fad14e91f3036873bd@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270501T170000
 DURATION:PT2H
 SUMMARY:U19: TJ Inovec Trenčianske Jastrabie – TJ Slovan Rovnosť Krajn
@@ -591,7 +591,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 20. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c9d14e91f3033513b9@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270502T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – TJ Družstevník Hrádok
@@ -599,7 +599,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 21. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe085e@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270502T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Iskra Horné Orešany – TJ Slovan Rovnosť Krajn
@@ -608,7 +608,7 @@ DESCRIPTION:VI. liga Západ\, 24. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508f9d14e91f303687191@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270508T170000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – Kočovce FC 1959
@@ -616,7 +616,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 21. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c5d14e91f30334fe55@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270509T103000
 DURATION:PT2H
 SUMMARY:U15: OŠK Bošáca – TJ Slovan Rovnosť Krajné U15
@@ -624,7 +624,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 22. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0b07@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270509T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Sokol Borský Mikul
@@ -633,7 +633,7 @@ DESCRIPTION:VI. liga Západ\, 25. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508fdd14e91f303687b0b@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270515T170000
 DURATION:PT2H
 SUMMARY:U19: TJ Štart Svinná – TJ Slovan Rovnosť Krajné U19
@@ -641,7 +641,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 22. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c5d14e91f30335055c@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270516T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – OFK Vrbovce
@@ -649,7 +649,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 23. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0822@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270516T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Dubovce – TJ Slovan Rovnosť Krajné
@@ -657,7 +657,7 @@ DESCRIPTION:VI. liga Západ\, 26. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508fad14e91f303687385@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270522T173000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – OFK Čachtice
@@ -665,7 +665,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 23. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f4d14e91f303fe1e0a@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270523T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Jednota Brestovec
@@ -673,7 +673,7 @@ DESCRIPTION:VI. liga Západ\, 27. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508fad14e91f303687392@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270529T173000
 DURATION:PT2H
 SUMMARY:U19: ZFC 1939 Trenčín B – TJ Slovan Rovnosť Krajné U19
@@ -681,7 +681,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 24. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c5d14e91f3033501c3@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270530T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – OFK Čachtice
@@ -689,7 +689,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 25. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0b00@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270530T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Tatran Jablonica – TJ Slovan Rovnosť Krajné
@@ -697,7 +697,7 @@ DESCRIPTION:VI. liga Západ\, 28. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508fad14e91f3036875f8@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270605T173000
 DURATION:PT2H
 SUMMARY:U19: TJ Slovan Rovnosť Krajné U19 – TFK Opatová
@@ -705,7 +705,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 25. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c6d14e91f303350a69@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270606T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Iskra Moravské Lieskové – TJ Slovan Rovnosť Krajné U
@@ -714,7 +714,7 @@ DESCRIPTION:IV. liga starších žiakov U15\, 26. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0885@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270606T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Kopčany
@@ -722,7 +722,7 @@ DESCRIPTION:VI. liga Západ\, 29. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5508fbd14e91f30368779b@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270612T173000
 DURATION:PT2H
 SUMMARY:U19: TJ Žihlavník Omšenie – TJ Slovan Rovnosť Krajné U19
@@ -730,7 +730,7 @@ DESCRIPTION:V. liga starších dorastencov U19\, 26. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a5769c6d14e91f303350a88@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270613T103000
 DURATION:PT2H
 SUMMARY:U15: TJ Slovan Rovnosť Krajné U15 – FK Potvorice

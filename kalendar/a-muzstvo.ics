@@ -24,7 +24,7 @@ END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
 UID:zapas-6a418524e5a4847e62265421@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260801T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – ZFC 1939 Trenčín 3:1
@@ -33,7 +33,7 @@ LOCATION:Štadión Turani Turá Lúka
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf8ae@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260809T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slavoj Moravský Svätý Ján – TJ Slovan Rovnos
@@ -43,7 +43,7 @@ LOCATION:Štadión TJ Slavoj
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf1d2@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260816T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Iskra Holíč 3:2
@@ -52,7 +52,7 @@ LOCATION:Štadión Turani Turá Lúka
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a6e6104e904c78a51b1c6c2@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260819T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – MŠK Púchov 1:3
@@ -61,7 +61,7 @@ LOCATION:Štadión Turani Turá Lúka
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf380@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260822T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Šaštín-Stráže – TJ Slovan Rovnosť Kr
@@ -71,7 +71,7 @@ LOCATION:TJ Slovan Šaštín
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a71eb56e904c78a5126a769@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260826T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Družstevník Siladice – TJ Slovan Rovnosť Krajn
@@ -81,7 +81,7 @@ LOCATION:Futbalový štadión Siladice
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf6f9@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260830T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Baník Brodské – TJ Slovan Rovnosť Krajné 1:4
@@ -90,7 +90,7 @@ LOCATION:TJ Baník Brodské
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf58f@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260906T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Spartak Šaštín-St
@@ -100,7 +100,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e8d14e91f303fdf4b1@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260912T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: ŠFK Štefanov – TJ Slovan Rovnosť Krajné 1:4
@@ -109,7 +109,7 @@ LOCATION:ŠFK Štefanov
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfe29@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260920T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – FK Oreské 7:1
@@ -118,7 +118,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf827@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20260926T153000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FC Družstevník Rybky – TJ Slovan Rovnosť Krajné 
@@ -128,7 +128,7 @@ LOCATION:Rybky
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdf6eb@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261004T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Iskra Horné Orešan
@@ -138,7 +138,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6e9d14e91f303fdfab4@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261011T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Sokol Borský Mikuláš – TJ Slovan Rovnosť Kraj
@@ -148,7 +148,7 @@ LOCATION:FK Borský Mikuláš
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f2d14e91f303fe184e@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261018T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Slovan Dubovce 2:0
@@ -157,7 +157,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fdfc0c@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261025T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Jednota Brestovec – TJ Slovan Rovnosť Krajné 2:
@@ -167,7 +167,7 @@ LOCATION:Pod Solniskom
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fe0067@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261101T140000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Tatran Jablonica 4:4
@@ -176,7 +176,7 @@ LOCATION:Športový areál Krajné
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ead14e91f303fe001b@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20261108T133000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Kopčany – TJ Slovan Rovnosť Krajné 7:4
@@ -185,7 +185,7 @@ LOCATION:TJ Kopčany
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe015a@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270307T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Slavoj Moravský Sv
@@ -194,7 +194,7 @@ DESCRIPTION:VI. liga Západ\, 16. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe03cb@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270314T143000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Iskra Holíč – TJ Slovan Rovnosť Krajné
@@ -202,7 +202,7 @@ DESCRIPTION:VI. liga Západ\, 17. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ebd14e91f303fe05c1@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270321T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Slovan Šaštín-Str
@@ -211,7 +211,7 @@ DESCRIPTION:VI. liga Západ\, 18. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6efd14e91f303fe11de@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270328T150000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Baník Brodské
@@ -219,7 +219,7 @@ DESCRIPTION:VI. liga Západ\, 19. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe07f3@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270404T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Spartak Šaštín-Stráže – TJ Slovan Rovnosť K
@@ -228,7 +228,7 @@ DESCRIPTION:VI. liga Západ\, 20. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe07cb@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270411T160000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – ŠFK Štefanov
@@ -236,7 +236,7 @@ DESCRIPTION:VI. liga Západ\, 21. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0761@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270418T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: FK Oreské – TJ Slovan Rovnosť Krajné
@@ -244,7 +244,7 @@ DESCRIPTION:VI. liga Západ\, 22. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f3d14e91f303fe1cbf@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270425T163000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – FC Družstevník Rybky
@@ -252,7 +252,7 @@ DESCRIPTION:VI. liga Západ\, 23. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe085e@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270502T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Iskra Horné Orešany – TJ Slovan Rovnosť Krajn
@@ -261,7 +261,7 @@ DESCRIPTION:VI. liga Západ\, 24. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0b07@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270509T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Sokol Borský Mikul
@@ -270,7 +270,7 @@ DESCRIPTION:VI. liga Západ\, 25. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0822@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270516T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Dubovce – TJ Slovan Rovnosť Krajné
@@ -278,7 +278,7 @@ DESCRIPTION:VI. liga Západ\, 26. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6f4d14e91f303fe1e0a@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270523T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Jednota Brestovec
@@ -286,7 +286,7 @@ DESCRIPTION:VI. liga Západ\, 27. kolo\nDomáci zápas
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0b00@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270530T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Tatran Jablonica – TJ Slovan Rovnosť Krajné
@@ -294,7 +294,7 @@ DESCRIPTION:VI. liga Západ\, 28. kolo\nZápas vonku
 END:VEVENT
 BEGIN:VEVENT
 UID:zapas-6a54c6ecd14e91f303fe0885@tj-slovan-rovnost-krajne.sportnet
-DTSTAMP:20261120T115058Z
+DTSTAMP:20261121T111644Z
 DTSTART;TZID=Europe/Bratislava:20270606T170000
 DURATION:PT2H
 SUMMARY:A-mužstvo: TJ Slovan Rovnosť Krajné – TJ Kopčany
